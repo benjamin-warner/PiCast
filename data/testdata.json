@@ -1,0 +1,6 @@
+{
+	"message" : "Sup, looks like it works", 
+	"int" : 1,
+	"string" : "Test Data",
+	"float" : 3.1415,
+}
